@@ -1,4 +1,4 @@
-;; Triangle
+;; Triangle
 (reset)
 (forward 100)
 (left 120)
