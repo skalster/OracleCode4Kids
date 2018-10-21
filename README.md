@@ -1,8 +1,8 @@
 # OracleCode4Kids
 Examples from the session
 
-URL to George: http://george.andante.no/
+URL to George: https://george.andante.no/
 
-Buy the book: http://www.george.andante.no/book
+Buy the book: https://www.george.andante.no/book
 
 Sign up for the mailing list to get more information.
